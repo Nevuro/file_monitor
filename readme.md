@@ -18,7 +18,7 @@ A Python script that monitors Windows drives for changes to a specific file (`lo
 - Python 3.x
 - Required packages:
   ```bash
-  pip install requests watchdog
+  pip install requests watchdog python-dotenv
   ```
 
 ## Configuration
