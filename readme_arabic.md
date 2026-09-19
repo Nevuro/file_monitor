@@ -20,7 +20,7 @@
 - Python 3.x
 - الحزم المطلوبة:
   ```bash
-  pip install requests watchdog
+  pip install requests watchdog python-dotenv
   ```
 
 ## التكوين
